@@ -298,3 +298,4 @@ body{padding-bottom:58px}
 .van-band figure{margin:0;border-radius:var(--radius,18px);overflow:hidden;box-shadow:0 14px 40px rgba(31,45,58,.18)}
 .van-band img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 .hero.has-hero:before{background:linear-gradient(100deg,rgba(24,36,48,.95) 0%,rgba(31,45,58,.90) 55%,rgba(44,61,77,.84) 100%)}
+.src-list{margin:10px 0 0;padding-left:20px}.src-list li{margin:6px 0;overflow-wrap:anywhere}
